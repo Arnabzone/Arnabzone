@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Bhattacharya</h1>
 <h3 align="center">I’m currently pursuing BTech in Computer Science Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnEyN2loNjIybXEzbmp4cDNxamsyOGRlN2pmNGtxemJkMjJnZmx0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif")>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabzone&label=Profile%20views&color=0e75b6&style=flat" alt="arnabzone" /> </p>
 
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Cloud Computing.**
 
-- 💬 Ask me about **Ask me about Python, Video Editing and Chess.,**
+- 💬 Ask me about **Ask me about Python, Video Editing and Chess.**
 
-- 📫 How to reach me **arnabworkinfo@gmail.com**
+- 📫 Contact me: **arnabworkinfo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arnab bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab bhattacharya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnab-bhattacharya-58814a213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bim30W9LwQriaPWHnN5%2BYtg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab bhattacharya" height="30" width="40" /></a>
 <a href="https://instagram.com/arnab.zzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnab.zzz" height="30" width="40" /></a>
 </p>
 
