@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabzone&label=Profile%20views&color=0e75b6&style=flat" alt="arnabzone" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics project on analyzing 2014 and 2019 election data to provide insights.**
+- 🔭 I’m currently working on **creating a "Tumor Detection" model by using machine learning algorithm (random forest algorithm).**
 
-- 🌱 I’m currently learning **Cloud Computing.**
+- 🌱 I’m currently learning **Generative AI.**
 
 - 💬 Ask me about **Ask me about Python, Video Editing and Chess.**
 
