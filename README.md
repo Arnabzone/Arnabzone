@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **creating a "Tumor Detection" model by using machine learning algorithm (random forest algorithm).**
 
-- 🌱 I’m currently learning **Generative AI.**
+- 🌱 I’m currently learning **Deep Learning and OpenCV**
 
-- 💬 Ask me about **Ask me about Python, Video Editing and Chess.**
+- 💬 Ask me about **Ask me about Java, Python and Chess.**
 
 - 📫 Contact me: **arnabworkinfo@gmail.com**
 
